@@ -95,10 +95,12 @@
 			<brush name="stone covered with purple"/>
 			<brush name="ornamented wall"/>
 			<brush name="new frozen wall"/>
+			<brush name="quara wall"/>
 		</terrain>
 		<!-- Raw -->
 		<raw>
 			<item id="248"/>
+			<item id="249"/>
 			<item fromid="1624" toid="1627"/>
 			<item fromid="1270" toid="1272"/>
 			<item id="1273"/>
@@ -816,6 +818,7 @@
 			<item fromid="33335" toid="33354"/>
 			<item id="33985"/>
 			<item fromid="34221" toid="34224"/>
+			<item fromid="45572" toid="45601"/>
 			<!-- Otherworld -->
 			<item fromid="32199" toid="32224"/>
 			<item fromid="32229" toid="32262"/>

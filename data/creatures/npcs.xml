@@ -981,4 +981,26 @@
 	<npc name="Zumtah" looktype="51" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Zurak" looktype="114" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Zurakarena" looktype="114" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
+	<npc name="Asterian Guardian" looktype="1200"/>
+	<npc name="Elara" looktype="1057"/>
+	<npc name="Dolls" looktype="1681" lookitem="0" lookaddon="0" lookhead="3" lookbody="114" looklegs="19" lookfeet="114" />
+	<npc name="Fisherman" looktype="279" lookitem="0" lookaddon="0" lookhead="3" lookbody="114" looklegs="19" lookfeet="114" />
+	<npc name="Garret" looktype="967" lookitem="0" lookaddon="0" lookhead="3" lookbody="114" looklegs="19" lookfeet="114" />
+	<npc name="Sunaia" looktype="967" lookitem="0" lookaddon="0" lookhead="3" lookbody="114" looklegs="19" lookfeet="114" />
+	<npc name="Fusch" looktype="931" lookitem="0" lookaddon="3" lookhead="0" lookbody="79" looklegs="82" lookfeet="0" />
+	<npc name="Guyun" looktype="103" />
+	<npc name="Harry Pota" looktype="1292" lookitem="0" lookaddon="2" lookhead="95" lookbody="21" looklegs="115" lookfeet="0" />
+	<npc name="Himura" looktype="153" lookitem="0" lookaddon="3" lookhead="19" lookbody="48" looklegs="67" lookfeet="126" />
+	<npc name="Jimo Rico" looktype="128" lookitem="0" lookaddon="3" lookhead="114" lookbody="114" looklegs="94" lookfeet="114" />
+	<npc name="Kronius" looktype="1186" lookitem="0" lookaddon="2" lookhead="114" lookbody="70" looklegs="57" lookfeet="114" />
+	<npc name="Mirael" looktype="302" />
+	<npc name="Rusty" looktype="279" />
+	<npc name="Sincere" looktype="1808" lookitem="0" lookaddon="3" lookhead="10" lookbody="95" looklegs="114" lookfeet="67" />
+	<npc name="Stupendo" looktype="962" lookitem="0" lookaddon="3" lookhead="114" lookbody="69" looklegs="18" lookfeet="22" />
+	<npc name="Tolkien" looktype="433" lookitem="0" lookaddon="3" lookhead="114" lookbody="76" looklegs="109" lookfeet="19" />
+	<npc name="Vald" looktype="130" lookitem="0" lookaddon="3" lookhead="19" lookbody="49" looklegs="67" lookfeet="114" />
+	<npc name="Valdarius" looktype="130" lookitem="0" lookaddon="3" lookhead="0" lookbody="95" looklegs="123" lookfeet="123" />
+	<npc name="Zelhar" looktype="1271" lookitem="0" lookaddon="3" lookhead="131" lookbody="131" looklegs="114" lookfeet="94" />
+	<npc name="Zig" looktype="1675" lookitem="0" lookaddon="3" lookhead="76" lookbody="76" looklegs="0" lookfeet="114" />
+	<npc name="Therius" looktype="130" lookitem="0" lookaddon="0" lookhead="0" lookbody="109" looklegs="128" lookfeet="128" />
 </npcs>

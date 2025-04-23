@@ -2779,5 +2779,19 @@
 		<borderitem edge="dsw" item="25437"/>
 		<borderitem edge="dse" item="25436"/>
 	</border>	
-	
+
+	<border id="249"> -- quara mountain --
+		<borderitem edge="n"   item="45636"/>
+		<borderitem edge="e"   item="45593"/>
+		<borderitem edge="s"   item="45625"/>
+		<borderitem edge="w"   item="45637"/>
+		<borderitem edge="cnw" item="45641"/>
+		<borderitem edge="cne" item="45653"/>
+		<borderitem edge="csw" item="45651"/>
+		<borderitem edge="cse" item="45638"/>
+		<borderitem edge="dnw" item="45645"/>
+		<borderitem edge="dne" item="45645"/>
+		<borderitem edge="dsw" item="45645"/>
+		<borderitem edge="dse" item="45657"/>
+	</border>
 </materials>

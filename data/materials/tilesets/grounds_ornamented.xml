@@ -87,6 +87,19 @@
 			<brush name="ornamented stone floor 2"/>
 			<brush name="ornamented stone floor 3"/>
 			<brush name="ornamented stone floor 4"/>
+			<brush name="nova grama"/>
+			<brush name="piso chocolate preto"/>
+			<brush name="piso chocolate branco"/>
+			<brush name="concreto quebrado"/>
+			<brush name="desconhecido"/>
+			<brush name="piso quara"/>
+			<brush name="piso quara 2"/>
+			<brush name="piso quara 3"/>
+			<brush name="nightfall bastion sem marcas"/>
+			<brush name="nightfall bastion com marcas"/>
+			<brush name="nightfall bastion com rachaduras"/>
+			<brush name="alminhas sand"/>
+			<brush name="alminhas earth ground"/>
 			<!-- Brushes -->
 			<brush name="slate floor 1"/>
 			<brush name="slate floor 2"/>
@@ -442,6 +455,17 @@
 			<item id="33150"/>
 			<item fromid="34000" toid="34003"/>
 			<item fromid="34104" toid="34107"/>
+			<item fromid="45014" toid="45023"/>
+			<item fromid="45036" toid="45043"/>
+			<item fromid="45056" toid="45063"/>
+			<item fromid="45083" toid="45088"/>
+			<item fromid="46848" toid="46853"/>
+			<item fromid="47142" toid="47147"/>
+			<item fromid="47387" toid="47392"/>
+			<item fromid="47561" toid="47565"/>
+			<item fromid="47566" toid="47572"/>
+			<item fromid="47573" toid="47577"/>
+			<item fromid="45680" toid="45685"/>
 		</raw>
 	</tileset>
 </materials>

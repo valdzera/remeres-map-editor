@@ -2452,4 +2452,34 @@
 		</wall>
 	</brush>
 	
+	<brush name="quara wall" type="wall" server_lookid="33156">
+		<wall type="horizontal">
+			<item id="45572" chance="10"/>
+			<item id="45573" chance="10"/>
+			<item id="45575" chance="10"/>
+			<item id="45576" chance="10"/>
+			<item id="45578" chance="10"/>
+			<item id="45579" chance="10"/>
+			<item id="45581" chance="10"/>
+			<item id="45582" chance="10"/>
+		</wall>
+		<wall type="vertical">
+			<item id="45584" chance="10"/>
+			<item id="45585" chance="10"/>
+			<item id="45587" chance="10"/>
+			<item id="45588" chance="10"/>
+			<item id="45590" chance="10"/>
+			<item id="45591" chance="10"/>
+			<item id="45593" chance="10"/>
+			<item id="45594" chance="10"/>
+		</wall>
+		<wall type="corner">
+			<item id="45595" chance="1"/>
+			<item id="45598" chance="1"/>
+		</wall>
+		<wall type="pole">
+			<item id="45601" chance="1"/>
+		</wall>
+	</brush>
+
 </materials>

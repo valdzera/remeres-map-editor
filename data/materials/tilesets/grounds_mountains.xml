@@ -16,6 +16,7 @@
 			<brush name="purple crystal mountain"/>
 			<brush name="sandstone mountain"/>
 			<brush name="seacrest mountain"/>
+			<brush name="quara mountain"/>
 		</terrain>
 	</tileset>
 </materials>

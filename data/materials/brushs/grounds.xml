@@ -715,7 +715,6 @@
 
 	<brush name="sand" type="ground" lookid="231" z-order="4650">
 		<item id="231" chance="1"/>
-		<item id="614" chance="1"/>
 		<item id="959" chance="0"/> 
 		<item id="960" chance="0"/> 
 		<item id="961" chance="0"/> 
@@ -1117,23 +1116,23 @@
 	</brush>
 
 	<brush name="rock soil" type="ground" lookid="4394" z-order="5">
-		<item id="4394" chance="1"/>
-		<item id="4395" chance="1"/>
+		<item id="4394" chance="200"/>
+		<item id="4395" chance="5"/>
 		<item id="4396" chance="1"/>
-		<item id="4397" chance="1"/>
-		<item id="4398" chance="1"/>
-		<item id="4399" chance="1"/>
-		<item id="4400" chance="1"/>
-		<item id="4401" chance="1"/>
-		<item id="4402" chance="1"/>
-		<item id="4403" chance="1"/>
-		<item id="4404" chance="1"/>
-		<item id="4405" chance="1"/>
-		<item id="4406" chance="1"/>
-		<item id="4407" chance="1"/>
-		<item id="4408" chance="1"/>
-		<item id="4409" chance="1"/>
-		<item id="4410" chance="1"/>
+		<item id="4397" chance="5"/>
+		<item id="4398" chance="5"/>
+		<item id="4399" chance="5"/>
+		<item id="4400" chance="5"/>
+		<item id="4401" chance="5"/>
+		<item id="4402" chance="50"/>
+		<item id="4403" chance="50"/>
+		<item id="4404" chance="50"/>
+		<item id="4405" chance="50"/>
+		<item id="4406" chance="5"/>
+		<item id="4407" chance="50"/>
+		<item id="4408" chance="50"/>
+		<item id="4409" chance="50"/>
+		<item id="4410" chance="50"/>
 		
 		<border align="outer" id="20"/>
 		<border align="inner" to="none" id="58"/>
@@ -2794,6 +2793,17 @@
 		<border align="outer" id="64"/>
 	</brush>
 
+	<brush name="quara mountain" type="ground" lookid="45791" z-order="9900">
+		<item id="45791" chance="2500"/>
+		<item id="45792" chance="2500"/>
+		<item id="45793" chance="2000"/>
+		<item id="45794" chance="2500"/>
+		<item id="45795" chance="2500"/>
+		
+		<border align="outer" to="none" id="249"/>
+		<border align="outer" id="249"/>
+	</brush>
+
 	<brush name="sandstone mountain" type="ground" lookid="18880" z-order="9900">
 		<item id="18880" chance="1"/>
 		
@@ -3727,6 +3737,161 @@
 
 		<border align="outer" id="248"/>
 	</brush>
+
+	<brush name="nova grama" type="ground" lookid="45014" z-order="40000">
+		<item id="45014" chance="5000"/>
+		<item id="45015" chance="5000"/>
+		<item id="45016" chance="5000"/>
+		<item id="45017" chance="5000"/>
+		<item id="45018" chance="5000"/>
+		<item id="45019" chance="5000"/>
+		<item id="45020" chance="800"/>
+		<item id="45021" chance="800"/>
+		<item id="45022" chance="800"/>
+		<item id="45023" chance="800"/>
+	</brush>
+
+	<brush name="piso chocolate preto" type="ground" lookid="45036" z-order="40000">
+		<item id="45036" chance="5000"/>
+		<item id="45037" chance="5000"/>
+		<item id="45038" chance="5000"/>
+		<item id="45039" chance="5000"/>
+		<item id="45040" chance="5000"/>
+		<item id="45041" chance="5000"/>
+		<item id="45042" chance="5000"/>
+		<item id="45043" chance="5000"/>
+	</brush>
 	
-	
+	<brush name="piso chocolate branco" type="ground" lookid="45056" z-order="40000">
+		<item id="45056" chance="5000"/>
+		<item id="45057" chance="5000"/>
+		<item id="45058" chance="5000"/>
+		<item id="45059" chance="5000"/>
+		<item id="45060" chance="5000"/>
+		<item id="45061" chance="5000"/>
+		<item id="45062" chance="5000"/>
+		<item id="45063" chance="5000"/>
+	</brush>
+
+	<brush name="concreto quebrado" type="ground" lookid="46083" z-order="40000">
+		<item id="46083" chance="5000"/>
+		<item id="46084" chance="5000"/>
+		<item id="46085" chance="5000"/>
+		<item id="46086" chance="5000"/>
+		<item id="46087" chance="5000"/>
+		<item id="46088" chance="5000"/>
+	</brush>
+
+	<brush name="desconhecido" type="ground" lookid="46848" z-order="40000">
+		<item id="46848" chance="5000"/>
+		<item id="46849" chance="5000"/>
+		<item id="46850" chance="5000"/>
+		<item id="46851" chance="5000"/>
+		<item id="46852" chance="5000"/>
+		<item id="46853" chance="5000"/>
+	</brush>
+
+	<brush name="piso quara" type="ground" lookid="47142" z-order="40000">
+		<item id="47142" chance="5000"/>
+		<item id="47143" chance="5000"/>
+		<item id="47144" chance="5000"/>
+		<item id="47145" chance="5000"/>
+		<item id="47146" chance="5000"/>
+		<item id="47147" chance="5000"/>
+	</brush>
+
+	<brush name="piso quara 2" type="ground" lookid="47387" z-order="40000">
+		<item id="47387" chance="5000"/>
+		<item id="47388" chance="5000"/>
+		<item id="47389" chance="5000"/>
+		<item id="47390" chance="5000"/>
+		<item id="47391" chance="5000"/>
+		<item id="47392" chance="5000"/>
+	</brush>
+
+	<brush name="piso quara 3" type="ground" lookid="45680" z-order="40000">
+		<item id="45680" chance="20000"/>
+		<item id="45681" chance="20000"/>
+		<item id="45682" chance="20000"/>
+		<item id="45683" chance="15000"/>
+		<item id="45684" chance="5000"/>
+		<item id="45685" chance="5000"/>
+		<item id="45685" chance="5000"/>
+	</brush>
+
+	<brush name="nightfall bastion sem marcas" type="ground" lookid="47561" z-order="40000">
+		<item id="47561" chance="5000"/>
+		<item id="47562" chance="5000"/>
+		<item id="47563" chance="5000"/>
+		<item id="47564" chance="5000"/>
+		<item id="47565" chance="5000"/>
+	</brush>
+
+	<brush name="nightfall bastion com marcas" type="ground" lookid="47566" z-order="40000">
+		<item id="47566" chance="5000"/>
+		<item id="47567" chance="5000"/>
+		<item id="47568" chance="5000"/>
+		<item id="47569" chance="5000"/>
+		<item id="47570" chance="5000"/>
+		<item id="47571" chance="5000"/>
+		<item id="47572" chance="5000"/>
+	</brush>
+
+	<brush name="nightfall bastion com rachaduras" type="ground" lookid="47573" z-order="40000">
+		<item id="47573" chance="2500"/>
+		<item id="47574" chance="2500"/>
+		<item id="47575" chance="2500"/>
+		<item id="47576" chance="2500"/>
+		<item id="47577" chance="2500"/>
+	</brush>
+
+	<brush name="alminhas sand" type="ground" lookid="32390" z-order="60">
+		<item id="32382" chance="500"/>
+		<item id="32383" chance="500"/>
+		<item id="32384" chance="500"/>
+		<item id="32385" chance="500"/>
+		<item id="32386" chance="500"/>
+		<item id="32387" chance="500"/>
+		<item id="32388" chance="500"/>
+		<item id="32389" chance="500"/>
+		<item id="32390" chance="500"/>
+		<item id="32391" chance="500"/>
+		<item id="32392" chance="500"/>
+		<item id="32393" chance="500"/>
+		<item id="32394" chance="200"/>
+		<item id="32395" chance="50"/>
+		<item id="32396" chance="50"/>
+		<item id="32397" chance="50"/>
+		<item id="32398" chance="500"/>
+		
+		<border align="outer" id="178"/>
+		<border align="inner" to="none" id="179"/>
+	</brush>
+
+	<brush name="alminhas earth ground" type="ground" lookid="32351" z-order="60">
+		<item id="32351" chance="500"/>
+		<item id="32352" chance="500"/>
+		<item id="32353" chance="500"/>
+		<item id="32354" chance="500"/>
+		<item id="32355" chance="500"/>
+		<item id="32356" chance="500"/>
+		<item id="32357" chance="500"/>
+		<item id="32358" chance="500"/>
+		<item id="32359" chance="500"/>
+		<item id="32360" chance="500"/>
+		<item id="32361" chance="500"/>
+		<item id="32362" chance="500"/>
+		<item id="32363" chance="500"/>
+		<item id="32364" chance="500"/>
+		<item id="32365" chance="500"/>
+		<item id="32366" chance="500"/>
+		<item id="32367" chance="500"/>
+		<item id="32368" chance="500"/>
+		<item id="32369" chance="500"/>
+			
+		<border align="outer" id="178"/>
+		<border align="inner" to="none" id="179"/>
+	</brush>
+
+
 </materials>
